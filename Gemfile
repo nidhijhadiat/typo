@@ -44,6 +44,7 @@ gem 'acts_as_tree_rails3'
 gem 'recaptcha'
 gem 'pg'
 
+
 group :development, :test do
   gem 'ruby-debug19'
   gem 'factory_girl', '~> 2.2'

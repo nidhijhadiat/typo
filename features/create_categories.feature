@@ -20,3 +20,4 @@ Feature: Create and Edit Categories
         Then I fill in "Description" with "test1, test2, test3"
         And I press "Save"
         Then I should see "test1"
+        
