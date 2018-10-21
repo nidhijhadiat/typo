@@ -25,7 +25,7 @@ describe CategoriesController, "/index" do
       specify { response.body.should have_selector('ul.categorylist') }
     end
   end
-
+ 
   describe "if :index template exists" do
     it "should render :index" do
       pending "Stubbing #template_exists is not enough to fool Rails"
