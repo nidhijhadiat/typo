@@ -93,3 +93,4 @@ Finished in 1 minute 11.89 seconds
 1214 examples, 0 failures, 6 pending
 Coverage report generated for Cucumber Features, RSpec to /home/ec2-user/environment/typo/coverage. 13440 / 15044 LOC (89.34%) covered.
 
+
